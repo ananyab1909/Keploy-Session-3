@@ -55,7 +55,7 @@ It features :
 
 ## User Routes
 
-  The API Documentation is provided in ```## [API.md](https://github.com/ananyab1909/Keploy-Session-2/blob/main/API.md)```
+  The API Documentation is provided in [API.md](https://github.com/ananyab1909/Keploy-Session-2/blob/main/API.md)
 
 ## About Me
 
