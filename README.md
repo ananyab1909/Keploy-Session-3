@@ -14,10 +14,10 @@ It features :
 
 ## Test Types
 
-  - Unit Tests (mocked & non-mocked) - Validate handler logic in isolation, ensuring edge cases and failures are covered.
-  - Integration Tests - Check the interaction between the API and a real database to ensure CRUD operations function as expected.
-  - API Tests - Simulate real HTTP requests to verify the full request-response cycle works correctly.
-  - Test Coverage - Uses go test -coverprofile to track and improve code coverage for all major components.
+  - `Unit Tests (mocked & non-mocked)` - Validate handler logic in isolation, ensuring edge cases and failures are covered.
+  - `Integration Tests` - Check the interaction between the API and a real database to ensure CRUD operations function as expected.
+  - `API Tests` - Simulate real HTTP requests to verify the full request-response cycle works correctly.
+  - `Test Coverage` - Uses go test -coverprofile to track and improve code coverage for all major components.
 
 ## Prerequisites
 
